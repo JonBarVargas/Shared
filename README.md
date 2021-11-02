@@ -17,7 +17,14 @@ When homosexual men come to terms with their sexuality they are provided with li
 This application provides a knowledge center about the unique problems that homosexual men face. By providing stories from real people it creates sparks of reflection and discussion. Other homosexual men can take tidbits of wisdom from others and apply lessons learned to their own life.   
 
 ## Documentation
-
+* [Community Characteristics](Documents/Shared-App_CommunityCharacteristicsOrientation_Oct5-2021.pdf)
+* [Technology Configuration Inventory](Documents/Shared-App_TechnologyConfigurationInventory_Oct5-2021.pdf)
+* [Business Case](Documents/Shared-App_BusinessCase_Oct5-2021.pdf)
+* [Stakeholder Analysis](Documents/Shared-App_StakeholderAnalysis_Oct5.pdf)
+* [Drafting an Emerging Picture](Documents/Shared-App_DraftingAnEmergingPicture_Oct19.pdf)
+* [Project Scope Statement](Documents/Shared-App_ProjectScopeStatement_Oct19_2021.pdf)
+* [Project Requirements](Documents/Shared-App_ProjectRequirements_Oct19-2021.pdf)
+* [Activity-Based Schedule](Documents/Shared-App_ActivityBasedSchedule_Oct19-2021.pdf)
 ## Udate summaries
 ### October 5, 2021
 Community Research and understanding
@@ -25,14 +32,21 @@ Community Research and understanding
 Focus was to develop an understanding of the targeted community that I am developing for.
 <br>
 Added:
-* Business case
-* Community Characteristics Orientation
-* Technology Configuration Inventory
-* Stake Holder Analysis
+* [Business Case](Documents/Shared-App_BusinessCase_Oct5-2021.pdf)
+* [Community Characteristics](Documents/Shared-App_CommunityCharacteristicsOrientation_Oct5-2021.pdf)
+* [Technology Configuration Inventory](Documents/Shared-App_TechnologyConfigurationInventory_Oct5-2021.pdf)
+* [Stakeholder Analysis](Documents/Shared-App_StakeholderAnalysis_Oct5.pdf)
 ### October 19, 2021
 Drafting an emerging picture & project management
 <br>
-
+Focus was to further develop a picture of what technologies my community uses and create project management documents.
+<br>
+Added:
+* [Drafting an Emerging Picture](Documents/Shared-App_DraftingAnEmergingPicture_Oct19.pdf)
+* [Project Scope Statement](Documents/Shared-App_ProjectScopeStatement_Oct19_2021.pdf)
+* [Project Requirements](Documents/Shared-App_ProjectRequirements_Oct19-2021.pdf)
+* [Activity-Based Schedule](Documents/Shared-App_ActivityBasedSchedule_Oct19-2021.pdf)
+* [Architectural documents](Documents/diagrams)
 
 ### November 2, 2021
 ## Dev Diary 
