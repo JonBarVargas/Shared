@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Story selection.unity
     guid: 411fdf15b87693142af1caf13a105771
+  - enabled: 1
+    path: Assets/Scenes/PlayListen.unity
+    guid: 272799e6e1be9564abf16161a15d73f1
+  - enabled: 1
+    path: Assets/Scenes/Learn.unity
+    guid: 8c142b0454e61e140b7f9352df392cfe
   m_configObjects: {}

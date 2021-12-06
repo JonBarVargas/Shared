@@ -289,7 +289,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0.00005277367}
+  m_AnchoredPosition: {x: 0, y: 0.00045883533}
   m_SizeDelta: {x: 0, y: 1182.7}
   m_Pivot: {x: 0, y: 1}
 --- !u!1 &366681715
@@ -654,7 +654,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 585805041}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1699861990}
+        m_TargetAssemblyTypeName: BtnClick, Assembly-CSharp
+        m_MethodName: BtnNewScene
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 3
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &585805041
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1193,7 +1205,19 @@ MonoBehaviour:
   m_VerticalScrollbarSpacing: -3
   m_OnValueChanged:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 11500000, guid: b0d9f0204e90d54429a912a3e5e1f2ea, type: 3}
+        m_TargetAssemblyTypeName: 
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1424919234
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1381,7 +1405,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Read/Write
+  m_Text: Learn
 --- !u!222 &1594710182
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1460,9 +1484,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Read through stories submitted
-
-    Share and write your own stories'
+  m_Text: "Read through modern day \ninjustices of lgbt people"
 --- !u!222 &1668640838
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1565,7 +1587,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 457765666}
   m_Direction: 2
   m_Value: 0
-  m_Size: 0.99999887
+  m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -1757,7 +1779,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1980044873}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1699861990}
+        m_TargetAssemblyTypeName: BtnClick, Assembly-CSharp
+        m_MethodName: BtnNewScene
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 4
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1980044873
 MonoBehaviour:
   m_ObjectHideFlags: 0
