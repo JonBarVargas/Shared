@@ -1,6 +1,7 @@
 # Shared
 A collection of interactive real-life stories from local homosexual men.
-[product commercial] (https://youtu.be/nND6N78WtWM)
+<br>
+[product commercial](https://youtu.be/nND6N78WtWM)
 ## Table of contents
 * [General](#general)
 * [Background](#background)
